@@ -1,7 +1,8 @@
 Ikiru
 
 
-<img width="367" height="402" alt="image" src="https://github.com/user-attachments/assets/fdc3651a-13b6-4a26-9c60-0df83e97afba" />
+<img width="1125" height="2000" alt="image" src="https://github.com/user-attachments/assets/05fbd86c-1479-49e6-9c6d-ac7111819891" />
+
 
 
 
