@@ -1,5 +1,11 @@
 Ikiru
 
+
+<img width="367" height="402" alt="image" src="https://github.com/user-attachments/assets/fdc3651a-13b6-4a26-9c60-0df83e97afba" />
+
+
+
+
 <!--
 **varad-oss/varad-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
