@@ -27,3 +27,4 @@ jobs:
               EXCLUDE: ""
               AUTO_PUSH: true
               THEME: tokyonight
+              NAME: Varad Pandare
