@@ -1,8 +1,10 @@
-Ikiru
+<p align="center">
+  Ikiru
+</p>
 
 
 <p align="center">
-  <img width="2250" src="assets/monkey.gif" />
+  <img width="500" src="assets/monkey.gif" />
 </p>
 
 
