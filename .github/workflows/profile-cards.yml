@@ -1,4 +1,4 @@
-name: Update Profile Stats
+name: Update GitHub Profile Cards
 
 on:
   schedule:
@@ -9,31 +9,20 @@ permissions:
   contents: write
 
 jobs:
-  profile-cards:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
-      - name: Generate profile cards
-        uses: seijikohara/profile-cards-action@v0
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: varad-oss
-
-          cards: |
-            overview
-            lifetime
-            contributions
-            composition
-            rhythm
-            languages
-
-          output-dir: assets/profile
-          themes: dark
-          font: Roboto
-          mono-font: Roboto Mono
-
-          commit: true
-          commit-message: "chore: update profile stats [skip ci]"
+          USERNAME: varad-oss
+          BRANCH_NAME: main
+          UTC_OFFSET: 5.5
+          EXCLUDE: ""
+          AUTO_PUSH: true
