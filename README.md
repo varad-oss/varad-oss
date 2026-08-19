@@ -1,10 +1,10 @@
 Ikiru
 
 
-<img width="225" height="400" alt="image" src="https://github.com/user-attachments/assets/05fbd86c-1479-49e6-9c6d-ac7111819891" /> 
-![Monkey GIF](assets/monkey.gif)
-
-
+<p align="center">
+  <img width="225" height="400" src="https://github.com/user-attachments/assets/05fbd86c-1479-49e6-9c6d-ac7111819891" />
+  <img width="225" src="assets/monkey.gif" />
+</p>
 
 
 
