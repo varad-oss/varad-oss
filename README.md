@@ -7,6 +7,12 @@
   <img width="500" src="assets/monkey.gif" />
 </p>
 
+<p align="center">
+<img align="cener"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varad-oss&theme=github_dark&name=varad-oss&bg_color=171923&title_color=82aaff&text_color=4fd1c5&icon_color=b794f4&chart_color=b794f4&border_color=30363d"
+  width="90%"
+/>
+</p>
 
 <p align="center">
   <img
