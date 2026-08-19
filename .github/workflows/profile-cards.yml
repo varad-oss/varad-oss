@@ -26,4 +26,4 @@ jobs:
               UTC_OFFSET: 5.5
               EXCLUDE: ""
               AUTO_PUSH: true
-              THEME: dracula
+              THEME: tokyonight
