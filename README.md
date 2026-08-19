@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=varad-oss&bg_color=0d1117&color=B794F4&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&border_color=30363d&radius=12&height=400&custom_title=Varad%27s%20Activity&days=31"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=varad-oss&bg_color=0d1117&color=B794F4&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&border_color=30363d&radius=12&height=400&custom_title=Varad%27s%20Contribution&days=31"
     width="90%"
   />
 </p>
