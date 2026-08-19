@@ -2,8 +2,7 @@ Ikiru
 
 
 <img width="225" height="400" alt="image" src="https://github.com/user-attachments/assets/05fbd86c-1479-49e6-9c6d-ac7111819891" /> 
-<div class="tenor-gif-embed" data-postid="19600739" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/monkey-gif-19600739">Monkey GIF</a>from <a href="https://tenor.com/search/monkey-gifs">Monkey GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![Monkey GIF](assets/monkey.gif)
 
 
 
