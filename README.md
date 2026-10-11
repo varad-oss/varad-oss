@@ -2,10 +2,46 @@
   Ikiru
 </p>
 
+```zsh
+> neofetch
+```
 
-<p align="center">
-  <img width="500" src="assets/monkey.gif" />
-</p>
+<img align="left" src="assets/monkey.gif" width="320"/>
+
+```csharp
+varad-oss@github
+-----------------
+OS: macOS
+Host: IIT Kharagpur
+Shell: zsh
+Editor: VS Code
+
+Role: Software Developer
+Domain: Distributed Systems • FinTech • AgriTech • Android • Game AI
+
+Languages:
+  Go • Python • C++ • Kotlin
+  JavaScript • C • HTML/CSS
+
+Core Skills:
+  Distributed Systems - Raft consensus, replication, RPC
+  Systems Programming - LSM-trees, WAL, bitboards
+  Concurrent & Networked Systems - sockets, protocol design
+  Applied AI - Gemini structured outputs, LLM pipelines
+
+Databases:
+  PostgreSQL • SQLite
+
+Cloud & DevOps:
+  AWS
+
+Stats:
+  15 repos • 15 stars • 4 followers
+  338 contributions in the last year
+
+```
+
+<br clear="both"/>
 
 <p align="center">
 <img align="cener"
@@ -48,10 +84,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
