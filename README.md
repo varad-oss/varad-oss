@@ -17,7 +17,7 @@ Shell: zsh
 Editor: VS Code
 
 Role: Software Developer
-Domain: Distributed Systems • FinTech • AgriTech • Android • Game AI
+Domain: Distributed Systems • Agentic AI • Android • Full Stack
 
 Languages:
   Go • Python • C++ • Kotlin
@@ -27,17 +27,14 @@ Core Skills:
   Distributed Systems - Raft consensus, replication, RPC
   Systems Programming - LSM-trees, WAL, bitboards
   Concurrent & Networked Systems - sockets, protocol design
-  Applied AI - Gemini structured outputs, LLM pipelines
+  Applied AI - LLM pipelines
 
 Databases:
-  PostgreSQL • SQLite
+  PostgreSQL • MySQL • Firebase • Neo4j
 
 Cloud & DevOps:
-  AWS
+  AWS • Docker • Git
 
-Stats:
-  15 repos • 15 stars • 4 followers
-  338 contributions in the last year
 
 ```
 
