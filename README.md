@@ -6,7 +6,13 @@
 > neofetch
 ```
 
-<img align="left" src="assets/monkey.gif" width="320"/>
+<table>
+<tr>
+<td width="440" valign="top">
+  <img src="assets/monkey.gif" width="440"/>
+</td>
+<td width="30"></td>
+<td width="480" valign="top">
 
 ```csharp
 varad-oss@github
@@ -34,11 +40,11 @@ Databases:
 
 Cloud & DevOps:
   AWS • Docker • Git
-
-
 ```
 
-<br clear="both"/>
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img align="cener"
