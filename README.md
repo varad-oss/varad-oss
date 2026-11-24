@@ -33,7 +33,7 @@ Core Skills:
   Distributed Systems - Raft consensus, replication, RPC
   Systems Programming - LSM-trees, WAL, bitboards
   Concurrent & Networked Systems - sockets, protocol design
-  Applied AI - LLM pipelines
+  Applied AI - Agentic AI, RAG, LLM Pipelines
 
 Databases:
   PostgreSQL • MySQL • Firebase • Neo4j
